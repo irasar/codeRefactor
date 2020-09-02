@@ -27,7 +27,7 @@ If your README is very long, add a table of contents to make it easy for users t
 
 ## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+There are no installations for this webpage. It will simply open in a browser windows.
 
 
 ## Usage 
@@ -63,7 +63,7 @@ Badges aren't _necessary_, per se, but they demonstrate street cred. Badges let 
 
 ## Contributing
 
-If you created an application or package and would like other developers to contribute it, you will want to add guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own.
+
 
 ## Tests
 
