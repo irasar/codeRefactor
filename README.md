@@ -1,8 +1,9 @@
 
-# Your Project Title
+# CodeRefracting
 
 ## Description 
 This is my very first homework assignment. I have cleaned up some existing code to improve readability.
+I have added semantic tags to the html file.  Also, I have consolidated the css for greater legibility.
 
 The quality of a README often differentiates a good project from a bad project. A good one takes advantage of the opportunity to explain and showcase what your application does, justify the technologies used, and even talk about some of the challenges you faced and features you hope to implement in the future. A good README helps you stand out among the large crowd of developers putting their work on GitHub.
 
