@@ -58,7 +58,8 @@ The last section of a good README is a license. This lets other developers know 
 ## Badges
 
 <img src="http://jaspreetchahal.org/images/css3.svg" alt="css badge">
-git
+
+<img src="https://tse1.mm.bing.net/th?id=OIP.yhojArQgy_JWSrw3cE1BkQHaHa&pid=Api&P=0&w=300&h=300" alt="html badge">
 
 ![badmath](https://img.shields.io/github/languages/top/nielsenjared/badmath)
 
