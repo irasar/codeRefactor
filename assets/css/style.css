@@ -144,7 +144,7 @@ p {
 
 /* footer style */
 
-.foot  {
+.bag  {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -153,7 +153,7 @@ p {
 }
 /* footer h2 tag style */
 
-.foot h2    
+.bag h2    
             {
     font-size: 20px;
 }
