@@ -3,7 +3,7 @@
 
 ## Description 
 This is my very first homework assignment. I have cleaned up some existing code to improve readability.
-I have added semantic tags to the html file.  Also, I have consolidated the css for greater legibility. There are comments on the css file to better understand the styling.
+I have added semantic tags to the html file.  Also, I have consolidated the css for greater legibility. There are also comments on the css file to better understand the styling.
 
 The quality of a README often differentiates a good project from a bad project. A good one takes advantage of the opportunity to explain and showcase what your application does, justify the technologies used, and even talk about some of the challenges you faced and features you hope to implement in the future. A good README helps you stand out among the large crowd of developers putting their work on GitHub.
 
@@ -16,14 +16,6 @@ If you're new to Markdown, read the GitHub guide on [Mastering Markdown](https:/
 If you need an example of a good README, check out [the VSCode repository](https://github.com/microsoft/vscode).
 
 
-## Table of Contents (Optional)
-
-If your README is very long, add a table of contents to make it easy for users to find what they need.
-
-* [Installation](#installation)
-* [Usage](#usage)
-* [Credits](#credits)
-* [License](#license)
 
 
 ## Installation
@@ -38,11 +30,20 @@ Provide instructions and examples for use. Include screenshots as needed.
 
 ## Credits
 
-List your collaborators, if any, with links to their GitHub profiles.
+All credits go to Sarah Iraurgui and google-fu.
+ 
+https://github.com/irasar/
 
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
 
-If you followed tutorials, include links to those here as well.
+
+
+https://stackoverflow.com/questions/7549561/section-vs-article-html5
+
+
+https://www.youtube.com/watch?v=yfoY53QXEnI
+
+
+https://learn-the-web.algonquindesign.ca/topics/html-semantics-cheat-sheet/
 
 
 
@@ -61,9 +62,7 @@ The last section of a good README is a license. This lets other developers know 
 
 <img src="https://tse1.mm.bing.net/th?id=OIP.yhojArQgy_JWSrw3cE1BkQHaHa&pid=Api&P=0&w=300&h=300" alt="html badge">
 
-![badmath](https://img.shields.io/github/languages/top/nielsenjared/badmath)
 
-Badges aren't _necessary_, per se, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
 
 
 ## Contributing
