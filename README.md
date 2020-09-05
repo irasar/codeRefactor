@@ -2,8 +2,14 @@
 # CodeRefracting
 
 ## Description 
+
+
+<img src="https://media.giphy.com/media/10rJCb79m16aRy/giphy-downsized-large.gif
+" alt="gif">
+
+
 This is my very first homework assignment. I have cleaned up some existing code to improve readability.
-I have added semantic tags to the html file.  Also, I have consolidated the css for greater legibility. There are also comments on the css file to better understand the styling.
+I have added semantic tags to the html file.  Also, I have consolidated the css for greater legibility. There are comments on the css file to better understand the styling. I have fixed all the links in the navigation bar to work. 
 
 
 ## Installation
