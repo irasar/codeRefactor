@@ -4,8 +4,7 @@
 ## Description 
 
 
-<img src="https://media.giphy.com/media/10rJCb79m16aRy/giphy-downsized-large.gif
-" alt="gif">
+<img src="https://media.giphy.com/media/10rJCb79m16aRy/giphy-downsized-large.gif" alt="gif">
 
 
 This is my very first homework assignment. I have cleaned up some existing code to improve readability.
