@@ -1,5 +1,5 @@
 
-# CodeRefracting
+# CodeRefactoring
 
 ## Description 
 This is my very first homework assignment. I have cleaned up some existing code to improve readability.
