@@ -25,7 +25,7 @@ There are no installations for this webpage. It will simply open in a browser wi
 
 ## Usage 
 
-Provide instructions and examples for use. Include screenshots as needed. 
+You can use the navigation bar to maneuver to certain areas of the webpage.
 
 
 ## Credits
