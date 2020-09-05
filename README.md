@@ -53,15 +53,3 @@ The last section of a good README is a license. This lets other developers know 
 
 
 
-## Contributing
-
-
-
-## Tests
-
-Go the extra mile and write tests for your application. Then provide examples on how to run them.
-
-
----
-
-
