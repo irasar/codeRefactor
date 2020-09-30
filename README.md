@@ -5,13 +5,13 @@
 
 
 
-This is my very first homework assignment. I have cleaned up some existing code to improve readability.
-I have added semantic tags to the html file.  Also, I have consolidated the css for greater legibility. There are comments on the css file to better understand the styling. I have fixed all the links in the navigation bar to work. 
+I have cleaned up existing code to improve readability.
+I have added semantic tags to the html file.  Also, I have consolidated the css for greater legibility. There are comments on the css file to better understand the styling. I have fixed all the links in the navigation bar to work. I have not changed the webpage itself.
 
 
 ## Installation
 
-There are no installations for this webpage. It will simply open in a browser windows.
+There are no installations for this webpage. It will simply open in a browser window.
 
 
 ## Usage 
